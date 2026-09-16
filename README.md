@@ -1,3 +1,14 @@
+<p align="center">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/中文版本-README-blue?style=for-the-badge" alt="中文版本">
+  </a>
+  &nbsp;&nbsp;
+  <a href="./README_en.md">
+    <img src="https://img.shields.io/badge/English%20Version-README-green?style=for-the-badge" alt="English Version">
+  </a>
+</p>
+
+
 # 英语听说助手 Android 封闭测试招募
 
 我们正在准备发布一款面向高考英语听说备考的 Android 应用：**英语听说助手**。现在需要招募真实 Android 用户参与 Google Play 封闭测试，帮助我们完成上架前的真实设备验证。
